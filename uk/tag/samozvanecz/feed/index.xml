@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>самозванець Єгор Нагель-Зісер</title>
+	<atom:link href="/uk/tag/samozvanecz/feed/" rel="self" type="application/rss+xml" />
+	<link>/uk/</link>
+	<description>Блог про те, що займає думки</description>
+	<lastBuildDate>Sat, 29 Січ 2022 08:42:19 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>самозванець Єгор Нагель-Зісер</title>
+	<link>/uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Про самозванця</title>
+		<link>/uk/pro-samozvantsa/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Sat, 29 Січ 2022 08:42:19 +0000</pubDate>
+				<category><![CDATA[щоденник стоїка]]></category>
+		<category><![CDATA[думка]]></category>
+		<category><![CDATA[самозванець]]></category>
+		<guid isPermaLink="false">/pro-samozvantsa/-uk</guid>
+
+					<description><![CDATA[<p><a href="/pro-samozvantsa/"></p>
+<p>Хотілося б жити без постійної боротьби із почуттям самозванця. Стільки сил на те, щоб здаватися і в очах людей не впасти обличчям у бруд. Стільки зусиль, щоб переживати напругу, связанное с кажущейся проверкой моего имени и способностей. </p>
+<p>А ведь я могу только делать то, что знаю и умею — все остальное скрыто от меня блаженным неведением. Тогда почему же я переживаю? </p>
+<p>Да все из-за того, что боюсь того, что обо мне подумают. Что скажут, когда меня рядом не будет. </p>
+<p>А вот что.</p>
+<p>Скажут точно лучше, чем я есть на самом деле. Скажут лучше, чем если бы знали меня изнутри. </p>
+<p>Тогда успокойся, жалкая душонка, и живи.&#8230;</p>
+<p></a></p>
+The post <a href="/pro-samozvantsa/">Про самозванця</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

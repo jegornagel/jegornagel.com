@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Чтение Егор Нагель-Зисер</title>
+	<atom:link href="/tag/reading/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Tue, 22 Dec 2020 12:07:18 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Чтение Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>«Быстрое чтение за 10 дней» Эбби Маркс-Бил &#8211; Ключевые идеи</title>
+		<link>/10-days-faster-reading/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2019 15:28:45 +0000</pubDate>
+				<category><![CDATA[Книги]]></category>
+		<category><![CDATA[Чтение]]></category>
+		<guid isPermaLink="false">http://167.172.180.57/2019/11/27/10-days-faster-reading/</guid>
+
+					<description><![CDATA[<p><a href="/10-days-faster-reading/"></p>
+<p><strong>Суть в 1 предложении</strong>: Скорость чтения зависит от того, что ты читаешь и какой метод чтения используешь – в этой книге ты научишься выбирать первое и второе.</p>
+<p>Большинство людей прекратили развивать способности чтения после окончания средней школы. Ничего стыдного – так утверждает автор книги и команда преподавателей из Языкового института Принстона. Следуя советам книги &#8220;Быстрое чтение за 10 дней&#8221;, ты будешь экспериментировать и определишь вредные привычки чтения, которые нужно побороть. Так же ты научишься основным методам скорочтения.</p>
+<p>Из книги &#8220;Быстрое чтение за 10 дней&#8221; я взял для себя 3 урока:</p>
+<ol>
+<li>Читай переборчиво. Не хватайся за все, что попадется. Удостоверься, что читать эту книгу точно нужно.</li>
+</ol>
+<p>&#8230;</a></p>
+The post <a href="/10-days-faster-reading/">«Быстрое чтение за 10 дней» Эбби Маркс-Бил – Ключевые идеи</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Последние 10 уроков из умных книг. Больше не будет</title>
+		<link>/last-10-lessons/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Mon, 14 Jan 2019 17:54:49 +0000</pubDate>
+				<category><![CDATA[Мотивация]]></category>
+		<category><![CDATA[Чтение]]></category>
+		<guid isPermaLink="false">http://167.172.180.57/2019/01/14/last-10-lessons/</guid>
+
+					<description><![CDATA[<p><a href="/last-10-lessons/"></p>
+<p>Сколько бы ни читал книги о планировании, мотивации, личностном развитии — все сводится к одному и тому же. Такое чувство, будто авторы просто копируют текст друг у друга и переписывают на свой лад. Возможно, это и есть рецепт большинства современных книг, но с меня хватит.</p>
+<p>Я прекращаю читать книги с привлекательными названиями, которые обещают решить все проблемы и сделать успешным. Тем более если книга вышла в последние 10-15 лет. Больше ни строчки о личностном развитии и продуктивности. Это вовсе не значит, что я не буду читать. Я попробую читать более мясистую литературу, научную, а не науч поп.</p>
+<p>Хочу логически завершить книжную эпопею и подвести итог всем сбережениям заметок из книг.&#8230;</p>
+<p></a></p>
+The post <a href="/last-10-lessons/">Последние 10 уроков из умных книг. Больше не будет</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

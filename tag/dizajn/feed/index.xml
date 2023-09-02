@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Дизайн Егор Нагель-Зисер</title>
+	<atom:link href="/tag/dizajn/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Tue, 22 Dec 2020 12:05:56 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Дизайн Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Сетки и проектирование сайтов — Конспект</title>
+		<link>/setki-i-saity/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2020 22:25:58 +0000</pubDate>
+				<category><![CDATA[Дизайн]]></category>
+		<guid isPermaLink="false">/?p=4415</guid>
+
+					<description><![CDATA[<p><a href="/setki-i-saity/"></p>
+<p>Прошел курс по сеткам от <a href="https://bangbangeducation.ru/course/grids" class="aioseop-link">Bang Bang Education</a> и делюсь своим конспектом. Сразу скажу, что конспект довольно короткий и содержит только ту информацию, которая мне была полезна. Советую пройти весь курс самостоятельно.</p>
+<hr class="wp-block-separator"/>
+<p><strong>Сетка</strong> — это инструмент организации пространства, основанный на особенностях визуального восприятия человека. </p>
+<p><strong>Сетка</strong> — это результат стремления человека к гармоническому порядку.</p>
+<p>Нет единых правил построения сеток.</p>
+<p>Восприятие линий и сетки происходит подсознательно. Значит, хотим мы того или нет, но мы будем видеть прямые линии там, где их может не быть.</p>
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="613" height="352" src="/wp-content/uploads/2020/04/group-1.png" alt="" class="wp-image-4417" srcset="/wp-content/uploads/2020/04/group-1.png 613w, /wp-content/uploads/2020/04/group-1-300x172.png 300w" sizes="(max-width: 613px) 100vw, 613px" /></figure>
+<p>Сетка — невидимая архитектура страницы, которая отражает структуру материала. Она не может работать эффективно от материала и определяется материалом.&#8230;</p>
+<p></a></p>
+The post <a href="/setki-i-saity/">Сетки и проектирование сайтов — Конспект</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

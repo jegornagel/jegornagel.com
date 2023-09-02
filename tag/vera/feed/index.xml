@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>вера Егор Нагель-Зисер</title>
+	<atom:link href="/tag/vera/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Wed, 06 Apr 2022 09:24:25 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>вера Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Какому лагерю отдать предпочтение</title>
+		<link>/kakomu-lageryu-otdat-predpochtenie/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 09:12:00 +0000</pubDate>
+				<category><![CDATA[вера]]></category>
+		<category><![CDATA[дневник стоика]]></category>
+		<guid isPermaLink="false">/?p=10383</guid>
+
+					<description><![CDATA[<p><a href="/kakomu-lageryu-otdat-predpochtenie/"></p>
+<p>Интересно у меня получается, что сейчас во мне противостоят два лагеря: нерелигиозный философский и религиозный. И только мне решать, какому из них отдавать предпочтение. Подобное противостояние в обоих подходах к жизни списываются на что-то, происходящее вне человека, но как то, на что он может влиять. Например, в христианской традиции, считается, что бог использует обстоятельства, чтобы подтолкнуть человека к решению, а человек сам решает. В стоической же традиции, считается, что человек самостоятельно отдает предпочтение определенному суждению, и только тогда это суждение начинает влиять на жизнь человека. Выглядит это следующим образом.</p>
+<p>Христианство. Происходит событие, которое делает бог и человек может прийти к нему и стать верующим.&#8230;</p>
+<p></a></p>
+The post <a href="/kakomu-lageryu-otdat-predpochtenie/">Какому лагерю отдать предпочтение</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

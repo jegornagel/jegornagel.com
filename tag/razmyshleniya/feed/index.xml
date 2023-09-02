@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>размышления Егор Нагель-Зисер</title>
+	<atom:link href="/tag/razmyshleniya/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Wed, 30 Mar 2022 14:35:07 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>размышления Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Размышления о русском языке в моем будущем</title>
+		<link>/russian-ukrainian/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Wed, 30 Mar 2022 14:34:27 +0000</pubDate>
+				<category><![CDATA[размышления]]></category>
+		<category><![CDATA[язык]]></category>
+		<guid isPermaLink="false">/?p=10361</guid>
+
+					<description><![CDATA[<p><a href="/russian-ukrainian/"></p>
+<h2 class="wp-block-heading">Часть 1</h2>
+<p>Мне неудобно от того, как я стал размышлять о языке.</p>
+<p>Для меня в принципе языки не проблема. Я быстро заговорил на английском, потому что стал на нем думать. Так же было с хорватским. Стал думать = стал говорить. Так случилось с моим начальным немецким, а ведь думать на начальном уровне всегда сложно. Но главное правило &#8212; не переводить в голове, а строить предложения на нужном языке сразу в голове из тех слов и грамматики, что знаешь.</p>
+<p>Кстати, так же случилось с украинским. До 4 класса я не знал, что такой язык вообще существует! И только в 4 классе к нам в началку начала приходить Светлана Григорьевна, которую до сих пор уважаю и люблю, и учить нас мові.&#8230;</p>
+<p></a></p>
+The post <a href="/russian-ukrainian/">Размышления о русском языке в моем будущем</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Что бы сделал стоик?</title>
+		<link>/chto-by-sdelal-stoik/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Sun, 30 Jan 2022 08:42:51 +0000</pubDate>
+				<category><![CDATA[дневник стоика]]></category>
+		<category><![CDATA[размышления]]></category>
+		<guid isPermaLink="false">/chto-by-sdelal-stoik/</guid>
+
+					<description><![CDATA[<p><a href="/chto-by-sdelal-stoik/"></p>
+<p>Никогда не мог фанатеть от человека или хотя бы достаточно долго следить за ним, чтобы начинать понимать и перенимать его поведение и мышление. Мне слишком тяжело удержать в голове мысль, чтобы напоминать в трудней момент об этом человеке и задаваться вопросом, как бы он поступил. Видимо, это моя специфика.</p>
+<p>Мне так же тяжело получить привычки. Поэтому вредные привычки мне бросить легко. Ведь ничто не липнет. В одном смысле это хорошо, в другом плохо. Ведь не липнет как плохое, так и хорошее.</p>
+<p>По идее, я мог бы попытаться создать образ некого стоика-учителя в голове. Ведь я и так обращаюсь часто к себе с вопросом «что бы посоветовали стоики?».&#8230;</p>
+<p></a></p>
+The post <a href="/chto-by-sdelal-stoik/">Что бы сделал стоик?</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Безопасность Егор Нагель-Зисер</title>
+	<atom:link href="/uk/tag/bezopasnost/feed/" rel="self" type="application/rss+xml" />
+	<link>/uk/</link>
+	<description>Блог про те, що займає думки</description>
+	<lastBuildDate>Tue, 22 Dec 2020 12:06:17 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Безопасность Егор Нагель-Зисер</title>
+	<link>/uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Як інформаційна (не)безпека знищить усіх нас</title>
+		<link>/uk/informaczionnaya-nebezopasnost-unichtozhit-vseh/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2019 20:51:49 +0000</pubDate>
+				<category><![CDATA[Безпека]]></category>
+		<category><![CDATA[Технології]]></category>
+		<guid isPermaLink="false">/?p=900-uk</guid>
+
+					<description><![CDATA[<p><a href="/informaczionnaya-nebezopasnost-unichtozhit-vseh/"></p>
+<p>Це, как мы обращаемся с безопасностью в сети, это полная катастрофа. Все делается совершенно не так, как стоило бы. Головне, что никто не отрицает, что следовало бы быть повнимательнее и хотя бы не использовать один пароль для всех аккаутнов, но никто ничего не предпринимает. Чому? Тому що&#8230;</p>
+<p>Первый принцип &#8212; удобство. Безопасность не может и не должна мешать пользовательскому опыту. Тобто, если человеку удобно пользоваться сайтом, то о безопасность не должна этому мешать. Это факт. Только так можно убедить обычных, технически неподкованных пользователей заботиться о своей безопасности. Альтернатива &#8212; полное отсутствие безопасности. Як, наприклад, практически везде сейчас.</p>
+<p>Принцип второй &#8212; здравый рассудок.&#8230;</p>
+<p></a></p>
+The post <a href="/informaczionnaya-nebezopasnost-unichtozhit-vseh/">Як інформаційна (не)безпека знищить усіх нас</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

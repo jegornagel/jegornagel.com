@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>тревога Егор Нагель-Зисер</title>
+	<atom:link href="/uk/tag/trevoga/feed/" rel="self" type="application/rss+xml" />
+	<link>/uk/</link>
+	<description>Блог про те, що займає думки</description>
+	<lastBuildDate>Thu, 03 лютий 2022 08:43:56 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>тревога Егор Нагель-Зисер</title>
+	<link>/uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Про тривогу</title>
+		<link>/uk/o-trevoge/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Thu, 03 лютий 2022 08:43:56 +0000</pubDate>
+				<category><![CDATA[щоденник стоїка]]></category>
+		<category><![CDATA[занепокоєння]]></category>
+		<guid isPermaLink="false">/o-trevoge/-uk</guid>
+
+					<description><![CDATA[<p><a href="/o-trevoge/"></p>
+<p>Тривога приносить мало користі, крім коли виникає питання життя. Але якби можна було її відключити. </p>
+<p>Хто вибирав би турбуватися з власної волі? Наскільки насправді можна навчитися не переживати? Не просто розмірковувати про це, не раціоналізувати про внутрішній спокій та незворушність, а дійсно, піддаючись різним обставинам, сохранять спокойствие. Не напускное убеждение, что я спокоен, а такое, которое подобно спокойствию утром, когда просыпаешься раньше всех в округе, когда даже собаки спят, а небо едва ли начинает светлеть на востоке.</p>
+<p></a></p>
+The post <a href="/o-trevoge/">Про тривогу</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Link Library-Generated RSS Feed</title>
+		<link>/uk/feed/linklibraryfeed?settingsset=1</link>
+		<description>Description of Link Library-Generated Feed</description>
+		<language>uk</language>
+		<pubDate>Fri, 01 Sep 2023 21:15:37 +0000</pubDate>
+		<lastBuildDate>Fri, 01 Sep 2023 21:15:37 +0000</lastBuildDate>
+		<category>Link Library Links</category>
+		<generator>RSS Genesis 1.1</generator>
+		<docs>http://rssgenesis.sourceforge.net/links/</docs>
+
+		<item>
+			<title>Старі карти онлайн</title>
+			<link>https://www.oldmapsonline.org/</link>
+			<description></description>
+			<pubDate>Mon, 06 лютий 2023 12:30:00 GMT</pubDate>
+			<category>Карти / карти</category>
+		</item>
+
+		<item>
+			<title>Колекція історичних карт Девіда Рамсі</title>
+			<link>https://www.davidrumsey.com/luna/servlet/view/all/?&amp;#038;sort=Pub_List_No_InitialSort,Pub_Date,Pub_List_No,Series_No</link>
+			<description></description>
+			<pubDate>Mon, 06 лютий 2023 12:29:00 GMT</pubDate>
+			<category>Карти / карти</category>
+		</item>
+
+		<item>
+			<title>50 програми &amp;#8211; Усі програми, необхідні для вашого бізнесу</title>
+			<link>https://500apps.com/#</link>
+			<description></description>
+			<pubDate>Fri, 18 Nov 2022 12:25:00 GMT</pubDate>
+			<category>Бізнес / Бізнес</category>
+		</item>
+
+		<item>
+			<title>Полотна для бізнесу</title>
+			<link>https://wrkshp.tools/tools</link>
+			<description></description>
+			<pubDate>Fri, 27 травень 2022 08:42:00 GMT</pubDate>
+			<category>Каталоги / Каталоги, Сервіси для стартапів / Інструменти запуску</category>
+		</item>
+
+		<item>
+			<title>Усі полотна, необхідні для оформлення вашого бізнесу</title>
+			<link>https://www.designabetterbusiness.tools/tools</link>
+			<description></description>
+			<pubDate>Fri, 27 травень 2022 08:42:00 GMT</pubDate>
+			<category>Каталоги / Каталоги, Сервіси для стартапів / Інструменти запуску</category>
+		</item>
+
+		<item>
+			<title>Шаблони електронних листів на мільйон доларів</title>
+			<link>https://million-dollar-emails.com/</link>
+			<description></description>
+			<pubDate>Wed, 27 квітень 2022 14:31:00 GMT</pubDate>
+			<category>Сервіси для стартапів / Інструменти запуску</category>
+		</item>
+
+		<item>
+			<title>кабелі &amp;#8211; інтерактивне візуальне візуальне програмування</title>
+			<link>https://cables.gl/</link>
+			<description></description>
+			<pubDate>Mon, 14 лютий 2022 10:07:00 GMT</pubDate>
+			<category>Дизайн / Дизайн</category>
+		</item>
+
+		<item>
+			<title>тощо &amp;#8211; багатоцільовий набір інструментів (анімаційна графіка в режимі реального часу)</title>
+			<link>https://vvvv.org/</link>
+			<description></description>
+			<pubDate>Mon, 14 лютий 2022 10:06:00 GMT</pubDate>
+			<category>Дизайн / Дизайн</category>
+		</item>
+
+		<item>
+			<title>tooll.io – створюйте красивий інтерактивний контент у реальному часі</title>
+			<link>http://tooll.io/</link>
+			<description></description>
+			<pubDate>Mon, 14 лютий 2022 10:05:00 GMT</pubDate>
+			<category>Дизайн / Дизайн</category>
+		</item>
+
+	</channel>
+</rss>

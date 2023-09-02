@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>самоконтроль Егор Нагель-Зисер</title>
+	<atom:link href="/uk/tag/samokontrol/feed/" rel="self" type="application/rss+xml" />
+	<link>/uk/</link>
+	<description>Блог про те, що займає думки</description>
+	<lastBuildDate>Sat, 05 лютий 2022 08:45:28 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>самоконтроль Егор Нагель-Зисер</title>
+	<link>/uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Про сталість</title>
+		<link>/uk/o-postoianstve/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Sat, 05 лютий 2022 08:45:28 +0000</pubDate>
+				<category><![CDATA[щоденник стоїка]]></category>
+		<category><![CDATA[бажання]]></category>
+		<category><![CDATA[наполегливість]]></category>
+		<category><![CDATA[самоконтроль]]></category>
+		<category><![CDATA[спокійний]]></category>
+		<guid isPermaLink="false">/o-postoianstve/-uk</guid>
+
+					<description><![CDATA[<p><a href="/o-postoianstve/"></p>
+<p>Постійність устремлінь — ось чого варто прагнути. Не в ту ж мить, коли бажання виникло, прагнути задовольнити його. Не захоплюватися бажанням у роздумах, мечтая о желанно и окутываясь в его цепи. Но тут же, когда оно только возникает, пропускать его через свои убеждения, свою философию и решения.</p>
+<p>Нужно ли мне то, чего я вдруг так страстно зажелал? Стоит ли увлекаться? Добро ли это желание? Добавит ли оно благочестия или противоречит ему?</p>
+<p>Но еще больше стоит думать и заботиться о том, как бы мне не попасть в рабство своего нового желания. Ведь новое всегда блестит ярче и кажется более ценным, чимось, что уже у меня есть.</p>
+<p></a></p>
+The post <a href="/o-postoianstve/">Про сталість</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

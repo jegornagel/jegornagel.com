@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Link Library-Generated RSS Feed</title>
+		<link>/feed/linklibraryfeed?settingsset=1</link>
+		<description>Description of Link Library-Generated Feed</description>
+		<language>en-us</language>
+		<pubDate>Fri, 01 Sep 2023 21:08:49 +0000</pubDate>
+		<lastBuildDate>Fri, 01 Sep 2023 21:08:49 +0000</lastBuildDate>
+		<category>Link Library Links</category>
+		<generator>RSS Genesis 1.1</generator>
+		<docs>http://rssgenesis.sourceforge.net/links/</docs>
+
+		<item>
+			<title>Old Maps Online</title>
+			<link>https://www.oldmapsonline.org/</link>
+			<description></description>
+			<pubDate>Mon, 06 Feb 2023 12:30:00 GMT</pubDate>
+			<category>Карты / Maps</category>
+		</item>
+
+		<item>
+			<title>David Rumsey Historical Map Collection</title>
+			<link>https://www.davidrumsey.com/luna/servlet/view/all/?&#038;sort=Pub_List_No_InitialSort,Pub_Date,Pub_List_No,Series_No</link>
+			<description></description>
+			<pubDate>Mon, 06 Feb 2023 12:29:00 GMT</pubDate>
+			<category>Карты / Maps</category>
+		</item>
+
+		<item>
+			<title>50 apps &amp;#8211; All apps you need for your business</title>
+			<link>https://500apps.com/#</link>
+			<description></description>
+			<pubDate>Fri, 18 Nov 2022 12:25:00 GMT</pubDate>
+			<category>Бизнес / Business</category>
+		</item>
+
+		<item>
+			<title>Canvases for business</title>
+			<link>https://wrkshp.tools/tools</link>
+			<description></description>
+			<pubDate>Fri, 27 May 2022 08:42:00 GMT</pubDate>
+			<category>Каталоги / Catalogs, Сервисы для стартапов / Startup tools</category>
+		</item>
+
+		<item>
+			<title>All the canvases you need to design your business</title>
+			<link>https://www.designabetterbusiness.tools/tools</link>
+			<description></description>
+			<pubDate>Fri, 27 May 2022 08:42:00 GMT</pubDate>
+			<category>Каталоги / Catalogs, Сервисы для стартапов / Startup tools</category>
+		</item>
+
+		<item>
+			<title>Million Dollar Email Templates</title>
+			<link>https://million-dollar-emails.com/</link>
+			<description></description>
+			<pubDate>Wed, 27 Apr 2022 14:31:00 GMT</pubDate>
+			<category>Сервисы для стартапов / Startup tools</category>
+		</item>
+
+		<item>
+			<title>cables &amp;#8211; interactive visuals visual programming</title>
+			<link>https://cables.gl/</link>
+			<description></description>
+			<pubDate>Mon, 14 Feb 2022 10:07:00 GMT</pubDate>
+			<category>Дизайн / Design</category>
+		</item>
+
+		<item>
+			<title>vvvv &amp;#8211; a multipurpose toolkit (real-time motion graphics)</title>
+			<link>https://vvvv.org/</link>
+			<description></description>
+			<pubDate>Mon, 14 Feb 2022 10:06:00 GMT</pubDate>
+			<category>Дизайн / Design</category>
+		</item>
+
+		<item>
+			<title>tooll.io – Create beautiful interactive realtime content</title>
+			<link>http://tooll.io/</link>
+			<description></description>
+			<pubDate>Mon, 14 Feb 2022 10:05:00 GMT</pubDate>
+			<category>Дизайн / Design</category>
+		</item>
+
+	</channel>
+</rss>

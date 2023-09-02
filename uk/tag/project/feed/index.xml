@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Проект Егор Нагель-Зисер</title>
+	<atom:link href="/uk/tag/project/feed/" rel="self" type="application/rss+xml" />
+	<link>/uk/</link>
+	<description>Блог про те, що займає думки</description>
+	<lastBuildDate>Tue, 22 Dec 2020 12:07:18 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Проект Егор Нагель-Зисер</title>
+	<link>/uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Що таке Goodo?</title>
+		<link>/uk/chto-takoe-goodo/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 19:50:11 +0000</pubDate>
+				<category><![CDATA[Проект]]></category>
+		<guid isPermaLink="false">/?p=7221-uk</guid>
+
+					<description><![CDATA[<p><a href="/chto-takoe-goodo/"></p>
+<p>На початку весни 2020 в Україну прийшов Covid. Багато хто випав через це в осад. Працювати вдома складно, спілкування обмежено онлайном, пересування лімітоване — ми виявилися неготовими не лише економічно, а й психологічно. Так виникла ідея <strong><a href="https://goodo.pro/" class="ek-link">Добре</a></strong> (читається <strong>гуд</strong>) — онлайн платформы для работы с психологами разного профиля.</p>
+<p>Я приєднався до команди вже в самому розпалі стратегічних планувань та відшліфування цільової аудиторії. Поступово нас ставало більше і зараз над проектом постійно працює 8 людина. Кількість психологів нестабільна, но мы над этим работаем.</p>
+<p>Основна відмінність Goodo від конкурентів у тому, що ми працюємо за передплатою. Тобто клієнт не платить за кожну сесію роботи із психологом, як це відбувається у традиційному підході, а оплачує, скажемо умовно, місяць, в который входит определенный набор психологической помощи.&#8230;</p>
+<p></a></p>
+The post <a href="/chto-takoe-goodo/">Що таке Goodo?</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Запорізька область з висоти 1-10 км. Арт-проект</title>
+		<link>/uk/zp-air-art/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Tue, 18 Dec 2018 08:57:27 +0000</pubDate>
+				<category><![CDATA[ст]]></category>
+		<category><![CDATA[Проект]]></category>
+		<guid isPermaLink="false">http://167.172.180.57/2018/12/18/zp-air-art/-uk</guid>
+
+					<description><![CDATA[<p><a href="/zp-air-art/"></p>
+<p>В детстве я мечтал увидеть свой город с высоты. Представлял, как взлетаю на самолете и рассматриваю знакомые улицы, вдома, парки, узнаю привычные повороты и тротуары. Тому, когда пролетал самолет, хотелось бегать, кричать и махать руками — чтобы привлечь внимание тех, кто там, на борту. Остаться у них в памяти. Стать частью красоты, которая доступна только с высоты.</p>
+<p>В 20 лет я впервые поднялся в самолете в небо. Знакомый в то время Киев, с неба оказался совершенно чужим. Улочки, повороты, дома — стали бессмысленными. Здания оголили свои крыши. Вони, что казались высокими башнями с земли, в небе стали небольшими прямоугольниками. Но раз исчезла одна магия, появилась другая.&#8230;</p>
+<p></a></p>
+The post <a href="/zp-air-art/">Запорізька область з висоти 1-10 км. Арт-проект</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

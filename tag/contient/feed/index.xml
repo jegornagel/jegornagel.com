@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Контент Егор Нагель-Зисер</title>
+	<atom:link href="/tag/contient/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Tue, 22 Dec 2020 12:07:06 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Контент Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>«Управление контент-маркетингом» Джо Пулицци &#8211; Ключевые идеи</title>
+		<link>/content-inc/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2019 15:28:46 +0000</pubDate>
+				<category><![CDATA[Книги]]></category>
+		<category><![CDATA[Контент]]></category>
+		<category><![CDATA[Маркетинг]]></category>
+		<guid isPermaLink="false">http://167.172.180.57/2019/11/27/content-inc/</guid>
+
+					<description><![CDATA[<p><a href="/content-inc/"></p>
+<p><strong>Суть в 1 предложении</strong>: Контент маркетинг начинается задолго до того, как у тебя есть продукт, офис и команда маркетинга и эта книга о том, как использовать контент для успеха.</p>
+<p>Совсем недавно, ты не мог получить тысячу клиентов для неизвестного бизнеса. Реклама стоила много – только большие компании или стартапы с инвестициями могли потратить кучу денег. Сейчас все что нужно – хороший автор и бесплатная платформа, где распространять истории.</p>
+<p>Джо Пулицци предлагает стратегию контент маркетинга, которая состоит из 6 шагов:</p>
+<ol>
+<li>Найди свою нишу</li>
+<li>Создай уникальный контент</li>
+<li>Выбери платформу и привлеки аудиторию</li>
+<li>Собирай аудиторию</li>
+<li>Разнообразь платформы</li>
+<li>Монетизируй</li>
+</ol>
+<p>Этапы выглядят непривычно. Обычно сначала нужен продукт и способ заработка, а только потом думать о контенте и аудитории.&#8230;</p>
+<p></a></p>
+The post <a href="/content-inc/">«Управление контент-маркетингом» Джо Пулицци – Ключевые идеи</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Как обозначить чужие работы</title>
+		<link>/kak-oboznachit-raboti/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Fri, 01 Feb 2019 04:39:00 +0000</pubDate>
+				<category><![CDATA[Контент]]></category>
+		<category><![CDATA[Творчество]]></category>
+		<guid isPermaLink="false">http://167.172.180.57/2019/02/01/kak-oboznachit-raboti/</guid>
+
+					<description><![CDATA[<p><a href="/kak-oboznachit-raboti/"></p>
+<p>Воруют все. Издания, блогеры, инста-звезды, бизнес — все используют чужую информацию, фотографии, материалы. Вопрос не только в использовании, но в обозначении, кто автор.</p>
+<p>Распространяй чужую работу так, как бы ты распространял свою — с уважением и заботой. Часто ограничиваются просто указанием автора. Но ведь автор — половина истории.</p>
+<p>Если не давать качественное описание чужой работы, то мы не только обворовываем автора, но и тех, с кем делимся работой.</p>
+<p>Без обозначения автора и качественного описания источника, твой читатель никак не может получить больше информации, кроме той, что ты дал. Он не может спуститься вниз по цепочке, найти автора, исследовать другие работы, найти, что его вдохновило и обнаружить других авторов.&#8230;</p>
+<p></a></p>
+The post <a href="/kak-oboznachit-raboti/">Как обозначить чужие работы</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

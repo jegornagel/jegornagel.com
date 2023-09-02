@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>спор Егор Нагель-Зисер</title>
+	<atom:link href="/tag/spor/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Sat, 22 Jan 2022 08:40:33 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>спор Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Про пустые споры</title>
+		<link>/pro-pustye-spory/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Sat, 22 Jan 2022 08:40:33 +0000</pubDate>
+				<category><![CDATA[Гнев]]></category>
+		<category><![CDATA[дневник стоика]]></category>
+		<category><![CDATA[спокойствие]]></category>
+		<category><![CDATA[спор]]></category>
+		<guid isPermaLink="false">/pro-pustye-spory/</guid>
+
+					<description><![CDATA[<p><a href="/pro-pustye-spory/"></p>
+<p>Как интересно наблюдать за своей жизнью и писать дневник. Но еще интереснее наблюдать за своими изменениями и напоминать себе о своих решениях. Чего еще ожидать от себя? Что еще улучшить? </p>
+<p>Понимаю, что должен говорить, даже если этого не хотят слышать. Ведь если живут люди во тьме, то кто укажет им, где свет? Чтобы сохранить свое спокойствие, я должен говорить так, как единственно верный факт то, что я говорю. Мои суждения не должны быть обвиняющими или осуждающими. Это мне стоит тренировать и напоминать себе.</p>
+<p>Так же, мне лучше промолчать, если я не собираюсь потратить силы и время на обсуждение вопроса и аргументацию.&#8230;</p>
+<p></a></p>
+The post <a href="/pro-pustye-spory/">Про пустые споры</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

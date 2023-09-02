@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Цеттелькастен Егор Нагель-Зисер</title>
+	<atom:link href="/tag/czettelkasten/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Thu, 11 Nov 2021 18:16:59 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Цеттелькастен Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Воркфлоу Цеттелькастена</title>
+		<link>/vorkflou-czettelkastena/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 17:30:43 +0000</pubDate>
+				<category><![CDATA[Цеттелькастен]]></category>
+		<guid isPermaLink="false">/?p=8368</guid>
+
+					<description><![CDATA[<p><a href="/vorkflou-czettelkastena/"></p>
+<ol>
+<li>Когда можешь вспомнить связанную заметку, сразу сделай ссылку <em>из</em> нее к новой заметке; в противном случае,</li>
+<li>Найди потенциально связанные структурные заметки. Подробнее о структуре и иерархии вспомним позже, но если их нет, переходи к шагу 5.</li>
+<li>Реши:
+<ul>
+<li>Попадает ли новая заметка непосредственно в эту структурную заметку; или</li>
+<li>Новая заметка связана с другой заметкой внутри структурной заметки (может быть и то, и другое).</li>
+</ul>
+</li>
+<li>Если появляется понимание более высокого уровня (т.е. ты находишь более высокий уровень из связанных заметок), создай структурную заметку.</li>
+<li>Повторяй шаги 2–4, пока не исчерпаешь все возможные варианты.</li>
+<li>Добавь теги и найди потенциальные связи.</li>
+<li>Выполни полный поиск по связанным ключевым словам.</li>
+</ol>
+<p>&#8230;</a></p>
+The post <a href="/vorkflou-czettelkastena/">Воркфлоу Цеттелькастена</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Как делать заметки</title>
+		<link>/kak-delat-zametki/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 17:30:12 +0000</pubDate>
+				<category><![CDATA[Цеттелькастен]]></category>
+		<guid isPermaLink="false">/?p=8367</guid>
+
+					<description><![CDATA[<p><a href="/kak-delat-zametki/"></p>
+<p><strong>Из чтения:</strong></p>
+<p>Чтение само по себе — механический процесс. Просто читая, мы не получаем ничего. Что важно — так это наши мысли от того, что мы читаем. Автор писал текст и использовал много информации, чтобы передать какую-то <strong>мысль</strong>. Когда ты, читая текст, ощущаешь, что что-то <strong>понял</strong>, ухватился за мысль, которую автор хотел передать — это момент, чтобы сделать заметку.</p>
+<p>Можешь выделять текст в книге (киндл) и оставлять свою заметку с мыслями. Экспортируя, у тебя будет оригинальный текст (цитата) и твои мысли.</p>
+<p>Литературные заметки можно сохранять в одном документе. Главное дальше сделать переработку.</p>
+<p><strong>Переработка:</strong></p>
+<p>Основные идеи нужно трансформировать в простые, атомарной.&#8230;</p>
+<p></a></p>
+The post <a href="/kak-delat-zametki/">Как делать заметки</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Инструменты Цеттелькастен</title>
+		<link>/instrumenty-czettelkasten/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 17:29:34 +0000</pubDate>
+				<category><![CDATA[Цеттелькастен]]></category>
+		<guid isPermaLink="false">/?p=8366</guid>
+
+					<description><![CDATA[<p><a href="/instrumenty-czettelkasten/"></p>
+<ol>
+<li>Inbox — место входа всей информации. Основная задача — не потерять временные мысли, а сохранить их. Может быть один файл для идей.</li>
+<li>Менеджер рефернсов — для того, чтобы сохранять источники. Желательно сохранять ссылки или ПДФ. Zotero или любое приложение заметок.</li>
+<li>Цеттелькастен — приложение, которое сохраняет файлы в простом формате, .md или .txt</li>
+</ol>
+<p></a></p>
+The post <a href="/instrumenty-czettelkasten/">Инструменты Цеттелькастен</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Основные принципы Цеттелькастен</title>
+		<link>/osnovnye-princzipy-czettelkasten/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 17:29:06 +0000</pubDate>
+				<category><![CDATA[Цеттелькастен]]></category>
+		<guid isPermaLink="false">/?p=8365</guid>
+
+					<description><![CDATA[<p><a href="/osnovnye-princzipy-czettelkasten/"></p>
+<p><strong>Ссылки</strong><br />Когда создаешь ссылку между заметками, обязательно пиши почему делаешь ссылку и как эти заметки относятся друг ко другу.</p>
+<p><strong>Атомарность</strong><br />Каждая отдельная идея должна находится в отдельной заметке. Потому что чем больше идей в одной заметке, тем сложнее структуру заметки ты создаешь и такие заметки невозможно эффективно связывать с другими заметками. Когда 1 заметка = 1 идея, эта заметка может выступать источником новых идей.</p>
+<p><strong>Децентрализованность</strong><br />Нет иерархий и четких структур группировки. Вместо того, чтобы задаваться вопросом «в какую категорию отнести эту заметку?» лучше спрашивать себя «в каком контексте я хочу эту заметку найти?»</p>
+<p><strong>Длительность</strong><br />Цеттелькастен становится инструментом и мозгом только если использовать его всегда.</p>
+<p></a></p>
+The post <a href="/osnovnye-princzipy-czettelkasten/">Основные принципы Цеттелькастен</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Обман собирания знаний – Collection Fallacy</title>
+		<link>/obman-sobiraniya-znanij-collection-fallacy/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 17:22:35 +0000</pubDate>
+				<category><![CDATA[Цеттелькастен]]></category>
+		<guid isPermaLink="false">/?p=8362</guid>
+
+					<description><![CDATA[<p><a href="/obman-sobiraniya-znanij-collection-fallacy/"></p>
+<p>Собирать информацию – бесполезно. Обычно то, что собрано в какой-то заметочник, больше никогда не используется. Таким образом:</p>
+<ol>
+<li>Нужна система обработки входящей информации. Например, каждую неделю, нужно перебирать Буфер/инбокс и прочищать его, создавая свои заметки.</li>
+<li>Нужно самостоятельно писать заметки в своем голосе и тоне, хранить собственные интерпретации и то, как я понял прочитанную информацию и что для себя взял.</li>
+<li>Важно сохранять свои заметки, а не копию информации, потому что своя заметка имеет информацию, которая откликнулась мне, затронула мои мысли. С такой заметкой легче работать в будущем. Сохраненную информацию (например, статья) нужно будет перечитать полностью, чтобы найти то место, которое когда-то показалось важным.</li>
+</ol>
+<p>&#8230;</a></p>
+The post <a href="/obman-sobiraniya-znanij-collection-fallacy/">Обман собирания знаний – Collection Fallacy</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Аутлайн вместо сплошного текста</title>
+		<link>/autlajn-vmesto-sploshnogo-teksta/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 17:20:17 +0000</pubDate>
+				<category><![CDATA[Цеттелькастен]]></category>
+		<guid isPermaLink="false">/?p=8360</guid>
+
+					<description><![CDATA[<p><a href="/autlajn-vmesto-sploshnogo-teksta/"></p>
+<p>Весь текст нужно писать в аутлайне.</p>
+<p>Начинать писать нужно с широкой темы, которая является первым пунктом. Далее нужно уходить в детали, углубляясь в аутлайн отступами.</p>
+<p>Каждый пункт аутлайна должен быть одним полным предложением. Таким образом, можно с легкостью перемещать местами текст.</p>
+<p>В текстовом редакторе можно использовать * для отступов и обозначения аутлайна.</p>
+<p>Вывод:</p>
+<ul>
+<li>Аутлайн состоит из легко передвигаемых частей/предложений. Готовые абзацы переносить сложнее без потери смысла.</li>
+<li>Иерархия создает контекст. Можно видеть структуру и прорабатывать дополнительные идеи.</li>
+<li>Можно прикреплять другие заметки и референсы прямо в нужные места аутлайна, а не добавлять их текст прямо в тело работы.</li>
+</ul>
+<p></a></p>
+The post <a href="/autlajn-vmesto-sploshnogo-teksta/">Аутлайн вместо сплошного текста</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

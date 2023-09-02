@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Дизайн Єгор Нагель-Зісер</title>
+	<atom:link href="/uk/tag/dizajn/feed/" rel="self" type="application/rss+xml" />
+	<link>/uk/</link>
+	<description>Блог про те, що займає думки</description>
+	<lastBuildDate>Tue, 22 Dec 2020 12:05:56 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Дизайн Єгор Нагель-Зісер</title>
+	<link>/uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Сітки та проектування сайтів — Конспект</title>
+		<link>/uk/setki-i-saity/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Thu, 02 квітень 2020 22:25:58 +0000</pubDate>
+				<category><![CDATA[Дизайн]]></category>
+		<guid isPermaLink="false">/?p=4415-uk</guid>
+
+					<description><![CDATA[<p><a href="/setki-i-saity/"></p>
+<p>Пройшов курс по сітках від <a href="https://bangbangeducation.ru/course/grids" class="aioseop-link">Bang Bang Education</a> і ділюся своїм конспектом. Відразу скажу, що конспект досить короткий і містить лише ту інформацію, яка мені була корисна. Раджу пройти весь курс самотужки.</p>
+<hr class="wp-block-separator"/>
+<p><strong>мережа</strong> - Це інструмент організації простору, заснований на особливостях візуального сприйняття людини. </p>
+<p><strong>мережа</strong> — это результат стремления человека к гармоническому порядку.</p>
+<p>Нет единых правил построения сеток.</p>
+<p>Сприйняття ліній та сітки відбувається підсвідомо. Значить, хочемо ми того чи ні, але ми бачимо прямі лінії там, где их может не быть.</p>
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="613" height="352" src="/wp-content/uploads/2020/04/group-1.png" alt="" class="wp-image-4417" srcset="/wp-content/uploads/2020/04/group-1.png 613w, /wp-content/uploads/2020/04/group-1-300x172.png 300w" sizes="(max-width: 613px) 100vw, 613px" /></figure>
+<p>Сітка – невидима архітектура сторінки, яка відображає структуру матеріалу. Она не может работать эффективно от материала и определяется материалом.&#8230;</p>
+<p></a></p>
+The post <a href="/setki-i-saity/">Сітки та проектування сайтів — Конспект</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

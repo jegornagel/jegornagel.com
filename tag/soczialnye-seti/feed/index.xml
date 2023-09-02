@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Социальные сети Егор Нагель-Зисер</title>
+	<atom:link href="/tag/soczialnye-seti/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Tue, 19 Oct 2021 20:05:57 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Социальные сети Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Как эффективно использовать социальные сети</title>
+		<link>/kak-effektivno-ispolzovat-soczialnye-seti/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Tue, 19 Oct 2021 19:22:00 +0000</pubDate>
+				<category><![CDATA[Мысли]]></category>
+		<category><![CDATA[Социальные сети]]></category>
+		<guid isPermaLink="false">/?p=10029</guid>
+
+					<description><![CDATA[<p><a href="/kak-effektivno-ispolzovat-soczialnye-seti/"></p>
+<p>Сейчас можно встретиться много ненависти к социальным сетям, как будто это монстр, который заставляет людей забывать о жизни и день за днем тратить на скроллинг. Есть научная шумиха, которая бьет тревогу, что социальные сети делают вас более одиноким, нарушают психику детей и подростков. Я и сам часто плохо высказываюсь о социальных сетях и несколько раз полностью стирал свои аккаунты. В этой статье я пытаюсь найти основание улучшить свое восприятие социальных сетей и пользоваться ими в своих интересах.</p>
+<p>Первая проблема, от которой не убежать — это <a href="https://www.wsj.com/articles/the-facebook-files-11631713039" class="ek-link">научные доказательства вреда.</a> Даже недавние слитые Файлы Фейсбука подтверждают это. Уловка в том, что мы должны понимать разницу между чем-то реальным и авторитетным.&#8230;</p>
+<p></a></p>
+The post <a href="/kak-effektivno-ispolzovat-soczialnye-seti/">Как эффективно использовать социальные сети</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

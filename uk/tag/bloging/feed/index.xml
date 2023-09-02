@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Блогинг Егор Нагель-Зисер</title>
+	<atom:link href="/uk/tag/bloging/feed/" rel="self" type="application/rss+xml" />
+	<link>/uk/</link>
+	<description>Блог про те, що займає думки</description>
+	<lastBuildDate>Thu, 28 Oct 2021 17:06:13 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Блогинг Егор Нагель-Зисер</title>
+	<link>/uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Навіщо створювати блог</title>
+		<link>/uk/zachem-sozdavat-blog/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2021 17:04:21 +0000</pubDate>
+				<category><![CDATA[Ведення блогів]]></category>
+		<category><![CDATA[нотатки]]></category>
+		<category><![CDATA[Спілкування]]></category>
+		<category><![CDATA[Творчість]]></category>
+		<guid isPermaLink="false">/?p=10033-uk</guid>
+
+					<description><![CDATA[<p><a href="/zachem-sozdavat-blog/"></p>
+<h2 class="wp-block-heading" id="what-to-write-about">Про що писати</h2>
+<p>Коли я починав писати цей блог, основна думка була писати про продуктивність та маркетинг. Зараз я зробив ревізію всіх статей та склав такий список:</p>
+<ul>
+<li>Я часто ділюся порадами</li>
+<li>Я ділюся думками та особистими поглядами</li>
+<li>Я розповідаю, що дізнаюся нове</li>
+<li>Я сперечаюся з популярними думками</li>
+<li>Я збираю базу посилань з різних тем</li>
+<li>Я роблюся своїми захопленнями</li>
+</ul>
+<p>Скорее всего вы делаете хотя бы что-то из того, что описано выше. А это значит, что вам уже есть о чем писать.</p>
+<h2 class="wp-block-heading" id="but-nobody-will-read-my-blog">«Но никто не будет читать меня»</h2>
+<p>А вот это совершенно не имеет значения. Мой блог первые несколько лет прочитало человек 10.&#8230;</p>
+<p></a></p>
+The post <a href="/zachem-sozdavat-blog/">Навіщо створювати блог</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

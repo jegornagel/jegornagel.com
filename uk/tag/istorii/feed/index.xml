@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Истории Егор Нагель-Зисер</title>
+	<atom:link href="/uk/tag/istorii/feed/" rel="self" type="application/rss+xml" />
+	<link>/uk/</link>
+	<description>Блог про те, що займає думки</description>
+	<lastBuildDate>Tue, 22 Dec 2020 12:07:18 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Истории Егор Нагель-Зисер</title>
+	<link>/uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Мой учитель — Сатана</title>
+		<link>/uk/moy-uchitel-satana/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Mon, 17 Dec 2018 20:46:51 +0000</pubDate>
+				<category><![CDATA[Історії]]></category>
+		<guid isPermaLink="false">http://167.172.180.57/2018/12/17/moy-uchitel-satana/-uk</guid>
+
+					<description><![CDATA[<p><a href="/moy-uchitel-satana/"></p>
+<p>Я попал в ад. Мой учитель по математике — Сатана. Я не знаю, что произошло с прошлым учителем, но этот меня пугает.</p>
+<p>Я боюсь его красной кожи, покрытой шерстью, огромных рук с длинными ногтями и крупных зеленых глаз. Но больше всего я боюсь его зубов, острых на вид, как бритва. Здається, что хватит легкого прикосновения, чтобы остался шрам.</p>
+<p>С приходом Сатаны, школа изменилась. Светлый кабинет математики, на стенах которого висели портреты умных старцев, превратился в темную пещеру со свечами. Коридоры стали узкими и похожими на внутренности длинного червяка. Учителя же в восторге — им можно наказывать детей. Наприклад, кусать! добре, что новый математик еще никого не кусал или я об этом просто не слышал…</p>
+<p>Я не хочу ходить школу.&#8230;</p>
+<p></a></p>
+The post <a href="/moy-uchitel-satana/">Мой учитель — Сатана</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

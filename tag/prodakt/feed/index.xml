@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Продакт Егор Нагель-Зисер</title>
+	<atom:link href="/tag/prodakt/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Tue, 22 Dec 2020 12:07:05 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Продакт Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>«Вдохновение. Как создавать продукты-хиты» Марти Каган — Саммари</title>
+		<link>/kak-sozdavat-produkty-marti-kaghan/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2019 15:29:00 +0000</pubDate>
+				<category><![CDATA[Бизнес]]></category>
+		<category><![CDATA[Книги]]></category>
+		<category><![CDATA[Продакт]]></category>
+		<guid isPermaLink="false">http://167.172.180.57/2019/11/27/kak-sozdavat-produkty-marti-kaghan/</guid>
+
+					<description><![CDATA[<p><a href="/kak-sozdavat-produkty-marti-kaghan/"></p>
+<p><strong>Суть книги в 1 предложении</strong>: в целом книга — сборник базовых принципов разработки продукта, будь-то в интернете или оффлайн, которая описывает роли членов команды, процесс разработки, создания маркетинговой стратегии и продажи.</p>
+<p>Советую прочитать тем, кто только начинает развиваться в направлении Продакт-менеджмента и не держал в руках <a href="https://www.pmi.org/pmbok-guide-standards/foundational/pmbok" class="broken_link">PMBOK</a>. Для остальных же, книга будет слишком простой и базовой.</p>
+<p><!--kg-card-begin: html--></p>
+<h2 id="-2-"><span class="highlight">Урок 1. Не нужен новый рынок, нужно то, что решает насущные проблемы</span></h2>
+<p><!--kg-card-end: html--></p>
+<p>Многие компании верят что нужно создать собственный рынок, чтобы создать что-то великое и абсолютно новое. Интернет только помогает распространять это убеждение. Все хотят знать, что будет следующим прорывом. Но чаще всего, следующий прорыв делают не новые продукты, а реинкарнация чего-то старого.&#8230;</p>
+<p></a></p>
+The post <a href="/kak-sozdavat-produkty-marti-kaghan/">«Вдохновение. Как создавать продукты-хиты» Марти Каган — Саммари</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Радикальная мудрость от продуктовых менеджеров</title>
+		<link>/wisdom-from-product-managers/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2019 04:45:18 +0000</pubDate>
+				<category><![CDATA[Продакт]]></category>
+		<guid isPermaLink="false">http://167.172.180.57/2019/03/28/wisdom-from-product-managers/</guid>
+
+					<description><![CDATA[<p><a href="/wisdom-from-product-managers/"></p>
+<p>Трансформируясь из маркетолога в продакта, общаясь с лидерами и сообществом продуктовых менеджеров, я вывел для себя 3 главных правила успеха в этой специальности:</p>
+<ol>
+<li>Занимайся сторонними проектами, а лучше сразу тремя. Основная работа дает много опыта, но он не сравним с тем, что ты получишь в левом деле с друзьями или просто коллегами.</li>
+<li>Не переставай изучать новые технологии, следи за развивающимися стартапами и продуктами. <em>Хороший лайфхак: ставь себя на место продуктовых менеджеров в тех компаниях, за которыми ты следишь — что бы ты делал, работая там?</em></li>
+<li>Никогда не забывай о пользователях. Выставь свой продукт, идею, компанию перед потенциальными пользователями как можно раньше — ты никогда не пожалеешь.</li>
+</ol>
+<p>&#8230;</a></p>
+The post <a href="/wisdom-from-product-managers/">Радикальная мудрость от продуктовых менеджеров</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

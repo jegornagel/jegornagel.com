@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Комиксы Егор Нагель-Зисер</title>
+	<atom:link href="/tag/comics/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Tue, 22 Dec 2020 12:07:18 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Комиксы Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>О стрелах, целях, и творчестве</title>
+		<link>/o-strielakh-zeliah-tvorchestve/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2018 20:12:14 +0000</pubDate>
+				<category><![CDATA[Арт]]></category>
+		<category><![CDATA[Комиксы]]></category>
+		<category><![CDATA[Цитаты]]></category>
+		<guid isPermaLink="false">http://167.172.180.57/2018/10/24/o-strielakh-zeliah-tvorchestve/</guid>
+
+					<description><![CDATA[<p><a href="/o-strielakh-zeliah-tvorchestve/"></p>
+<blockquote>
+<p>Талант попадёт в цели, в которые никто попасть не может, а гений – в цели, которые никто не видит.<em> </em>— Артур Шопенгауэр</p>
+</blockquote>
+<figure class="kg-card kg-image-card"><img decoding="async" src="/content/images/2018/10/Untitled-5.png" class="kg-image"/></figure>
+<blockquote>
+<p>Вместо того, чтобы целиться в чужие цели, что у меня никогда не получается, я придумываю свои цели в зависимости от того, куда попадают мои стрелы. Сперва ты стреляешь, потом рисуешь круги вокруг стрелы, и получается, что ты всегда попадаешь в десятку! — Брайан Ино</p>
+</blockquote>
+<p></a></p>
+The post <a href="/o-strielakh-zeliah-tvorchestve/">О стрелах, целях, и творчестве</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

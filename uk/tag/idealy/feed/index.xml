@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>идеалы Егор Нагель-Зисер</title>
+	<atom:link href="/uk/tag/idealy/feed/" rel="self" type="application/rss+xml" />
+	<link>/uk/</link>
+	<description>Блог про те, що займає думки</description>
+	<lastBuildDate>Sun, 06 лютий 2022 18:14:17 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>идеалы Егор Нагель-Зисер</title>
+	<link>/uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Не потрібно ідеалізувати людей.</title>
+		<link>/uk/ne-nuzhno-idealizirovat-liudei/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Sun, 06 лютий 2022 18:14:17 +0000</pubDate>
+				<category><![CDATA[щоденник стоїка]]></category>
+		<category><![CDATA[ідеали]]></category>
+		<category><![CDATA[думка]]></category>
+		<category><![CDATA[порівняння]]></category>
+		<guid isPermaLink="false">/ne-nuzhno-idealizirovat-liudei/-uk</guid>
+
+					<description><![CDATA[<p><a href="/ne-nuzhno-idealizirovat-liudei/"></p>
+<p>Легко піддаватися захопленню людиною та ідеалізувати її. Але варто трохи впізнати його, прочитати біографію або хоча б досліджувати його вчинки, як ця людина-напівок стає простою і непривабливою. Виявляється, у него свои пороки и он в своем заблуждается. </p>
+<p>Нет идеалов и нет совершенства.</p>
+<p>Поэтому лучше смотреть на себя и сравнивать себя с собой. </p>
+<p></a></p>
+The post <a href="/ne-nuzhno-idealizirovat-liudei/">Не нужно идеализировать людей.</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

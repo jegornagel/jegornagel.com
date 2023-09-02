@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Матрица Егор Нагель-Зисер</title>
+	<atom:link href="/tag/matrix/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Блог о том, что занимает мысли</description>
+	<lastBuildDate>Sun, 17 Oct 2021 17:40:05 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>Матрица Егор Нагель-Зисер</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Интернету нужно количество, а не качество</title>
+		<link>/internetu-nuzhno-kolichestvo-a-ne-kachestvo/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Sun, 17 Oct 2021 17:40:04 +0000</pubDate>
+				<category><![CDATA[Матрица]]></category>
+		<category><![CDATA[Технологии]]></category>
+		<guid isPermaLink="false">/?p=10018</guid>
+
+					<description><![CDATA[<p><a href="/internetu-nuzhno-kolichestvo-a-ne-kachestvo/"></p>
+<p>Мы все чего-то хотим и эти желания подпитывают нашу жизнь. Наши желания следуют за нами, куда бы мы ни пошли, в реальной жизни или в интернете. На протяжении всей истории нашими потребностями всегда приходилось управлять. Кодекс Хаммурапи был высечен в камне примерно в 1750 году до нашей эры, чтобы заставить людей соблюдать законы и обеспечить порядок. В сегодняшнем мире все правительства имеют какую-либо правовую систему, чтобы управлять порядком. Каждая религия пытается привить своим последователям моральные принципы, чтобы управлять поведением. Но интернет служит только нашим желаниям и делает минимум усилий, чтобы контролировать что-либо вообще. Поведение — это фактор наших желаний. Если вы видите фотографию красивой женщины или мужчины онлайн, вы кликаете потому что хотите увидеть больше.&#8230;</p>
+<p></a></p>
+The post <a href="/internetu-nuzhno-kolichestvo-a-ne-kachestvo/">Интернету нужно количество, а не качество</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Матрица</title>
+		<link>/matrix/</link>
+		
+		<dc:creator><![CDATA[Егор Нагель-Зисер]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2019 15:29:05 +0000</pubDate>
+				<category><![CDATA[Матрица]]></category>
+		<category><![CDATA[Философия]]></category>
+		<guid isPermaLink="false">http://167.172.180.57/2019/11/27/matrix/</guid>
+
+					<description><![CDATA[<p><a href="/matrix/"></p>
+<p>Фильмы трилогии &#8220;Матрица&#8221; изобразили простую для понимания метафору, которая объясняет, почему <a href="https://en.wikipedia.org/wiki/State_secrets_privilege">существует</a> организованное зло и угнетение, так что я буду использовать ее для лучшего восприятия. Хотя моя интерпретация не единственно возможная, я считаю, что она является достоверной, исчерпывающей и, что самое важное, идеально иллюстрирует послание, которое я пытаюсь донести в этих статьях.</p>
+<p>Долгое время я был сторонником гипотезы <a href="https://www.simulation-argument.com/">компьютерной симуляции Вселенной</a>, как ее описывает Ник Бостром. Мое представление о мире прекрасно вписывалось в такое положение вещей и я постепенно находил все больше подтверждений гипотезе. Сейчас я думаю не так.</p>
+<h2 id="-">Что такое Матрица</h2>
+<p>Давайте же начнем с того, чем Матрица не является.&#8230;</p>
+<p></a></p>
+The post <a href="/matrix/">Матрица</a> first appeared on <a href="/">Егор Нагель-Зисер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

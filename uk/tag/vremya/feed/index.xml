@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>время Егор Нагель-Зисер</title>
+	<atom:link href="/uk/tag/vremya/feed/" rel="self" type="application/rss+xml" />
+	<link>/uk/</link>
+	<description>Блог про те, що займає думки</description>
+	<lastBuildDate>Fri, 14 Січ 2022 05:42:40 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-moon-32x32.png</url>
+	<title>время Егор Нагель-Зисер</title>
+	<link>/uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Про те, що займає час</title>
+		<link>/uk/o-tom-chto-zanimaet-vremia/</link>
+		
+		<dc:creator><![CDATA[Єгор Нагель-Зісер]]></dc:creator>
+		<pubDate>Fri, 14 Січ 2022 05:42:40 +0000</pubDate>
+				<category><![CDATA[час]]></category>
+		<category><![CDATA[щоденник стоїка]]></category>
+		<category><![CDATA[прокрастинація]]></category>
+		<guid isPermaLink="false">/o-tom-chto-zanimaet-vremia/-uk</guid>
+
+					<description><![CDATA[<p><a href="/o-tom-chto-zanimaet-vremia/"></p>
+<p>Стільки всього створено з однією метою — забирати в мене щось. Увага, час, гроші, сили, або не давати думати про інше. Весь цей набір соціальних мереж начебто спеціально розроблений так, чтобы вызывать зависимость и быть идеальным средством прокрастинации. В итоге то, что я считаю важным делать — не делаю, а те, от чего считаю важным бежать и избегать — делаю.</p>
+<p></a></p>
+The post <a href="/o-tom-chto-zanimaet-vremia/">Про те, що займає час</a> first appeared on <a href="/">Єгор Нагель-Зісер</a>.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
